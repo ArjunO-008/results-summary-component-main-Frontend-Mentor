@@ -12,9 +12,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Built with](#built-with)  
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -46,4 +43,4 @@ Users should be able to:
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ArjunO-008](https://www.frontendmentor.io/profile/ArjunO-008)
